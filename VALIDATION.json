@@ -1,0 +1,46 @@
+[
+  {
+    "case": "case-0",
+    "callsign": "N0CALL",
+    "format": "text",
+    "exact_qr_decode": true,
+    "full_face_decode": true,
+    "isolated_qr_decode_used": false,
+    "exported_stl_watertight": true,
+    "no_colour_overlap": true,
+    "module_mm": 0.8648648648648649
+  },
+  {
+    "case": "case-1",
+    "callsign": "PA0TEST/P",
+    "format": "vcard",
+    "exact_qr_decode": true,
+    "full_face_decode": true,
+    "isolated_qr_decode_used": false,
+    "exported_stl_watertight": true,
+    "no_colour_overlap": true,
+    "module_mm": 0.7635087719298246
+  },
+  {
+    "case": "case-2",
+    "callsign": "F4TEST/MM",
+    "format": "vcard",
+    "exact_qr_decode": true,
+    "full_face_decode": true,
+    "isolated_qr_decode_used": false,
+    "exported_stl_watertight": true,
+    "no_colour_overlap": true,
+    "module_mm": 0.6037735849056604
+  },
+  {
+    "case": "case-3",
+    "callsign": "123456789012",
+    "format": "text",
+    "exact_qr_decode": true,
+    "full_face_decode": false,
+    "isolated_qr_decode_used": true,
+    "exported_stl_watertight": true,
+    "no_colour_overlap": true,
+    "module_mm": 0.8827586206896553
+  }
+]
